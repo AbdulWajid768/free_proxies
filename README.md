@@ -23,8 +23,8 @@
 
 <br/>
 
-<img src="https://gh-stats.work/api/pin/?username=AbdulWajid768&repo=free_proxies&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00d4aa&icon_color=FF6B6B&text_color=d1fae5&border_radius=12" width="48%"/>
-<img src="https://gh-stats.work/api/top-langs/?username=AbdulWajid768&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00d4aa&text_color=d1fae5&layout=compact&border_radius=12" width="48%"/>
+<img src="assets/stats-pin.svg" alt="Repo stats" width="48%"/>
+<img src="assets/stats-top-langs.svg" alt="Top languages" width="48%"/>
 
 <br/><br/>
 
@@ -117,7 +117,6 @@ flowchart LR
 
 [![GitHub](https://img.shields.io/badge/@AbdulWajid768-181717?style=flat&logo=github)](https://github.com/AbdulWajid768)
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AbdulWajid768/free_proxies&count.shadow=false&label=NEURAL%20VIEWS&color=FF6B6B&labelColor=0f172a" alt="views"/>
 
 <sub>Scan the grid · Route through survivors.</sub>
 
